@@ -104,3 +104,7 @@ ENV/
 
 .gitignore
 Would skip repository pyhton-estudo/
+.idea
+*.iml
+out
+gen
