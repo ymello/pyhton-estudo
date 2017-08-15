@@ -8,3 +8,4 @@ def checkPalindrome(inputString):
 
 
 print(checkPalindrome("yuri"))
+print(checkPalindrome("aadaa"))
