@@ -9,6 +9,4 @@ def centuryFromYear(year):
 
 
 centuryFromYear(1995)
-
-
 centuryFromYear(2001)
